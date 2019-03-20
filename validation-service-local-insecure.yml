@@ -1,7 +1,7 @@
 validation-service:
   nombreConfig: prueba
 server:
-  port: 9093
+  port: 9094
 spring:
   datasource:
     driverClassName: oracle.jdbc.driver.OracleDriver

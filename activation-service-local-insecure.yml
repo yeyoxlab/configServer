@@ -1,3 +1,7 @@
+activation-service:
+  nombreConfig: prueba
+server:
+  port: 9093
 spring:
   application.name: activation-service
   datasource:
